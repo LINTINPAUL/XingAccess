@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter Login Test">
+    <test name="Regression">
+         <classes>
+             <class name="com.Xing.Access.LoginXing"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
